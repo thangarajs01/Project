@@ -1,4 +1,5 @@
-📒 Employee Directory
+# Project
+Employee Directory
 
 ✅ Overview
 
