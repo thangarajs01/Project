@@ -11,21 +11,21 @@ const employees = [
     name: "Malathi",
     role: "HR Manager",
     department: "Human Resources",
-    email: "priya@nanmuthavan.com",
+    email: "malathi@nanmuthavan.com",
     photo: "https://i.pravatar.cc/150?img=2"
   },
   {
     name: "Thangaraj",
     role: "Accountant",
     department: "Finance",
-    email: "manikandan@nanmuthavan.com",
+    email: "thangaraj@nanmuthavan.com",
     photo: "https://i.pravatar.cc/150?img=3"
   },
   {
     name: "Mahesh",
     role: "UI/UX Designer",
     department: "Design",
-    email: "kavitha@nanmuthavan.com",
+    email: "mahesh@nanmuthavan.com",
     photo: "https://i.pravatar.cc/150?img=4"
   }
 ];
@@ -61,3 +61,4 @@ document.getElementById("searchInput").addEventListener("input", e => {
 
 // Initialize Page
 window.onload = () => renderEmployees(employees);
+
