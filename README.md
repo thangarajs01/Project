@@ -279,5 +279,3 @@ This project is licensed under the ISC License.
 ---
 
 **Made with ❤️ using Next.js and MongoDB**
-
-For questions or support, please open an issue on GitHub.
